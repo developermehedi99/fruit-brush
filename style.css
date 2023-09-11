@@ -30,3 +30,10 @@ body {
     height: 477px;
     border: 1px solid rgba(18, 18, 18, 0.10);
 }
+.footer-menu ul li{
+    font-size: 18px; font-weight: 600;
+    margin-left: 55px;
+}
+.last-ul li{
+    margin-left: 40px; font-size: 40px;
+}
